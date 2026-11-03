@@ -1,0 +1,6 @@
+{
+  "name": "SkillSphere",
+  "description": "Comprehensive student learning, live coding compiler, placement preparation, AI mentor, and resume builder platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
